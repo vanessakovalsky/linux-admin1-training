@@ -44,7 +44,7 @@ Cet exercice a pour objectifs :
 * Essayer de nouveau de supprimer le fichier evoli avec le compte teamrocket
 * Copier le fichier pikachu vers tmp en gardant les attributs du fichier (y-compris son propriétaire)
 
-## Interface graphique
+## (Optionnel) Interface graphique
 
 * Lancer en arrière plan system-config-users (installer le paquet si celui-ci n'est pas installé)
 * Cliquer sur l'icone computer puis sur l'icône filesystem
