@@ -5,7 +5,7 @@
 chmod +x monscript.sh
 bash -x monscript.sh
 
-export PATH=$PATH:${pwd}
+export PATH=$PATH:${pwd}/monscript.sh # temporaire si vous voulez le garder en permanent il faut rajouter cette ligne dans le fichier $HOME/.bashrc
 
 cd /home
 monscript.sh 
@@ -16,7 +16,7 @@ export CONFIG_SHELL=/etc/profile
 
 set
 
-unset CONFIG_SHELL
+unset CONFIG_SHELL # pour supprimer la variable CONFIG_SHELL
 
 export LANG=fr_FR
 
@@ -31,3 +31,4 @@ chmod +x bonjour.sh
 ./bonjour.sh 
 
 # Structure de controle
+
