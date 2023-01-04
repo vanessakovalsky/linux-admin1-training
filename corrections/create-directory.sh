@@ -6,6 +6,6 @@ read nomdossier
 if [[ ! -e $nomdossier ]]; then
     mkdir $nomdossier
 else
-    echo "$nomdossier already exists but is not a directory" 1>&2
+    echo "$nomdossier existe déja" 1>&2
 fi
 

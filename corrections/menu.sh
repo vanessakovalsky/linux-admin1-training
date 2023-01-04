@@ -11,7 +11,7 @@ My First Menu
         read a
         case $a in
 	        1) date ; menu ;;
-	        2) iotop ; menu ;;
+	        2) top ; menu ;;
 	        3) cat /etc/*release ; menu ;;
 			0) exit 0 ;;
 			*) echo -e "Wrong option."; menu;;
