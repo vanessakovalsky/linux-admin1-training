@@ -1,4 +1,4 @@
-# Exercice 6  - Installation d'applications
+# Exercice 8  - Installation d'applications
 
 Cet exercice a pour objectifs : 
 
