@@ -1,7 +1,7 @@
 # Exercice 1 - Installation d'une machine Linux
 
 Cet exercice a pour objectifs : 
-* d'installer une distribution linux sur une VM
+* d'installer une distribution Linux sur une VM
 * de prendre en main sa distribution
 
 ## Pré-requis :
